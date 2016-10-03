@@ -1,4 +1,4 @@
-port module Todo exposing (..)
+module Main exposing (..)
 
 import Dom
 import Html exposing (..)
