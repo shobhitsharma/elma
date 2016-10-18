@@ -1,4 +1,7 @@
 # elma
+
+[![Build Status](https://travis-ci.org/shobhitsharma/elma.svg?branch=master)](https://travis-ci.org/shobhitsharma/elma)
+
 Application architecture and demo application to try [Elm](http://elm-lang.org/) complier.
 
 ### Install:
